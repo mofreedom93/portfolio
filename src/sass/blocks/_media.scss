@@ -1,9 +1,12 @@
 @media (min-width: 1200px) {
     .promo {
         .container {
+            margin-left: 280px;
         }
     }
 }
+
+
 
 @media (max-width: 1200px) {
     .promo {
@@ -21,8 +24,6 @@
     }
 
     .menu {
-        &__block {
-        }
         &__link {
             font-size: 22px;
         }
@@ -37,8 +38,6 @@
         }
     }
     .menu {
-        &__block {
-        }
         &__link {
             line-height: 50px;
         }
